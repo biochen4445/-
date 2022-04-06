@@ -19,4 +19,8 @@ https://www.rstudio.com/products/rstudio/download/
 vehicle.csv
 
 ### 使用的程式碼為
-dashboard.rmd
+Dashboard-from-BigData.rmd
+
+### 輸出成果為
+Dashboard-from-BigData.html
+
