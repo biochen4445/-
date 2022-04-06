@@ -15,4 +15,8 @@ library(Rcmdr)
 ### 下載Rstudio download
 https://www.rstudio.com/products/rstudio/download/
 
-### 使用資料為vihecle.csv
+### 使用資料為
+vehicle.csv
+
+### 使用的程式碼為
+dashboard.rmd
