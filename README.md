@@ -1,6 +1,6 @@
-*# 海量資料課程*
+*# 海量資料課程教材*
 
-# 資料探勘(Data Mining)的上課教材
+# 資料探勘(Data Mining)
 
 ### - 下載 R
 https://www.r-project.org/
@@ -11,7 +11,9 @@ install.packages("Rcmdr")
 ### - 呼叫 Rcmdr
 library(Rcmdr)
 
-# 儀表板視覺化(Visualization and Dashboard)的上課教材 
+
+
+# 互動式視覺化儀表板(Visualization and Dashboard)
 ### - 下載Rstudio download
 https://www.rstudio.com/products/rstudio/download/
 
