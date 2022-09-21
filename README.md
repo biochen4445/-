@@ -1,6 +1,6 @@
 *# 海量資料課程*
 
-# 巨量資料探勘(Data Mining)的上課教材
+# 資料探勘(Data Mining)的上課教材
 
 ### - 下載 R
 https://www.r-project.org/
